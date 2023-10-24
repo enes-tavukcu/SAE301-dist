@@ -23,5 +23,5 @@ jobs:
         key: ${{ secrets.SSH_PRIVATE_KEY }}
         port: 22
         script: |
-          cd /var/www/sae301
+          cd /var/www/sae301/pocketbase/pb_public
           git pull origin main

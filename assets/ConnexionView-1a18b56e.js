@@ -1,0 +1,1 @@
+import{_ as t,o as n,c as o,F as a,a as e}from"./index-ccfb94eb.js";const c={},s=e("h1",{style:{"text-align":"center","margin-top":"100px"}}," TaVue ",-1),r=e("h2",{style:{"text-align":"center"}},"Connexion",-1);function _(i,l){return n(),o(a,null,[s,r],64)}const d=t(c,[["render",_]]);export{d as default};
